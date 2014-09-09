@@ -1,3 +1,7 @@
+# Jose Guvenilir
+# guvenj
+# lab 1 checkpoint 1
+
 length = 12
 width = 10
 height = 6

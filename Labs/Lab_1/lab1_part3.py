@@ -1,3 +1,7 @@
+# Jose Guvenilir
+# guvenj
+# lab 1 checkpoint 1
+
 jupDiam = 88846.0
 jupToSun = 483632000.0
 earthDiam = 7926.0
