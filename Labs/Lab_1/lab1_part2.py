@@ -1,3 +1,7 @@
+# Jose Guvenilir
+# guvenj
+# lab 1 checkpoint 2
+
 def DiffInBytes(bytes):
   manufacturer_bytes = bytes
   actual_bytes = manufacturer_bytes - ((2**10 - 10**3) * bytes / 1000) * 3
